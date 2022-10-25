@@ -1,0 +1,22 @@
+{
+  "name": "@adopisoft/tsconfig",
+  "version": "1.0.0",
+  "description": "Universal tsconfig for AdoPiSoft",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AdoPiSoft/tsconfig.git"
+  },
+  "keywords": [
+    "tsconfig"
+  ],
+  "author": "AdoPiSoft <support@adopisoft.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AdoPiSoft/tsconfig/issues"
+  },
+  "homepage": "https://github.com/AdoPiSoft/tsconfig#readme"
+}
