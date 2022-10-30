@@ -1,6 +1,6 @@
 {
   "name": "@adopisoft/tsconfig",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Universal tsconfig for AdoPiSoft",
   "main": "index.js",
   "scripts": {
